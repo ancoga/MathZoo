@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MathsZoo</string>
+    <string name="et_nombre">¿Cómo te llamas?</string>
+    <string name="bt">Jugar</string>
+
+    <string name="et_vidas">Vidas: </string>
+    <string name="jugador_nombre">Jugador:</string>
+    <string name="total_score">Score: 0</string>
+    <string name="boton_sumar">Comprobar</string>
+    <string name="et_respuesta">Respuesta</string>
+    <string name="boton_guardar">Guardar</string>
+
+    <string name="level1">Nivel 1 - Sumas básicas</string>
+    <string name="level2">Nivel 2 - Sumas complejas</string>
+    <string name="level3">Nivel 3 - Restas</string>
+    <string name="level4">Nivel 4 - Sumas y restas</string>
+    <string name="level5">Nivel 5 - Multiplicación</string>
+    <string name="level6">Nivel 6 - Sumas, restas y multiplicaciones</string>
+
+    <string name="errMsg">Primero debes escribir tu nombre</string>
+
+    <string name="gameOver">Has perdido debes emepzar de nuevo</string>
+    <string name="saveScoreOk">Puntuación guardada correctamente</string>
+    <string name="saveScoreFail">ERROR: La puntuación no se ha podido guardar correctamente</string>
+
+
+    <string name="idBanner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="idIntersticial">ca-app-pub-3940256099942544/1033173712</string>
+</resources>

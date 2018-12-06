@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MathsZoo</string>
+    <string name="et_nombre">What is your name?</string>
+    <string name="bt">Play</string>
+
+    <string name="et_vidas">Life: </string>
+    <string name="jugador_nombre">Player:</string>
+    <string name="total_score">Score: 0</string>
+    <string name="boton_sumar">Check</string>
+    <string name="et_respuesta">Answer</string>
+    <string name="boton_guardar">Save</string>
+
+    <string name="level1">Level 1 - Basic sums</string>
+    <string name="level2">Level 2 - Complex sums</string>
+    <string name="level3">Level 3 - Subtas</string>
+    <string name="level4">Level 4 - Addition and subtraction</string>
+    <string name="level5">Level 5 - Multiplication</string>
+    <string name="level6">Level 6 - Addition, subtraction and multiplication</string>
+
+    <string name="errMsg">First you must write your name</string>
+
+    <string name="gameOver">Game over</string>
+    <string name="saveScoreOk">Score saved correctly</string>
+    <string name="saveScoreFail">ERROR: Score could not be saved correctly</string>
+
+    <string name="idBanner">ca-app-pub-3317619824273342/9799488341</string>
+    <string name="idIntersticial">ca-app-pub-3317619824273342/5770656142</string>
+
+    <string name="idBannerPrueba">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="idIntersticialPrueba">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
